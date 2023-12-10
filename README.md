@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 ------------------
 
-* 🌍  I'm based in Georgia, Houston & Remotely across the world.
+* 🌍  I'm based in Georgia, USA & Remotely across the world.
 * ✉️  You can contact me at [onlinehassle1234@gmail.com](mailto:onlinehassle1234@gmail.com)
 * 🧠  I'm learning Improving my skills with WordPress Gutenberg blocks, Next.js, Blockchain, React, and other JavaScript frameworks and libraries
 * 🤝  I'm open to collaborating on Frontend & Backend Development projects.
